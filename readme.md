@@ -1,23 +1,27 @@
-# HRMS Lite
+# HRMS Lite – Full Stack Application
 
-A lightweight Human Resource Management System.
+A lightweight Human Resource Management System (HRMS) built as a full-stack web application.
 
-## Features
-- Add / View / Delete Employees
-- Mark Attendance
-- View Attendance per Employee
+This project allows an admin to manage employee records and track daily attendance using a clean and simple interface.
 
-## Tech Stack
-- Frontend: React (Vite)
-- Backend: FastAPI
-- Database: SQLite
+---
 
-## Run Backend
-cd backend  
-venv\Scripts\activate  
-python -m uvicorn app.main:app --reload  
+## 🚀 Live Demo
 
-## Run Frontend
-cd frontend/hrms-frontend  
-npm install  
-npm run dev  
+Frontend (Live Application):  
+👉 [https://YOUR_FRONTEND_URL.vercel.app ](https://hrms-lite-puce-phi.vercel.app/) 
+
+Backend API:  
+👉 [https://YOUR_BACKEND_URL.onrender.com  ](https://hrms-lite-iy49.onrender.com)
+
+Backend API Docs (Swagger):  
+👉 [https://YOUR_BACKEND_URL.onrender.com/docs ](https://hrms-lite-iy49.onrender.com/docs)
+
+---
+
+## 📌 Features
+
+- Add, view, and delete employees  
+- Mark attendance (Present / Absent)  
+- View attendance per employee  
+- Basic form
