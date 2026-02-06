@@ -1,0 +1,41 @@
+# -------------------------
+# Python
+# -------------------------
+backend/venv/
+backend/__pycache__/
+backend/app/__pycache__/
+*.pyc
+
+# -------------------------
+# Node / React
+# -------------------------
+frontend/hrms-frontend/node_modules/
+frontend/hrms-frontend/dist/
+
+# -------------------------
+# Environment Variables
+# -------------------------
+.env
+
+# -------------------------
+# Database
+# -------------------------
+backend/hrms.db
+
+# -------------------------
+# OS Files
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# IDE / Editor
+# -------------------------
+.vscode/
+.idea/
+*.swp
+
+# -------------------------
+# Logs
+# -------------------------
+*.log
